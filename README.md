@@ -1,2 +1,2 @@
 # work_shell
-shell_for_work
+工作中常用的脚本
